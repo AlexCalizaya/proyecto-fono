@@ -1,2 +1,3 @@
 #Proyecto fono
-Este es un proyecto de prueba
+Proyecto tienda de celulares FonoStore
+Herramientas empleadas: Vanilla HTML, CSS y Javascript
